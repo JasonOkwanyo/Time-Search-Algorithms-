@@ -4,8 +4,8 @@ Search Algorithms Time Comparison Project
 
 A menu-driven program to compare Linear Search, Binary Search, and Hashing
 
-Group Members
 
+Group Members
 Okoth Jason Okwanyo SCT221-0094/2024
 
 Mureu Shawn SCT221-0548/2025
